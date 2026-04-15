@@ -1,0 +1,5 @@
+PyQt6>=6.4.0
+yt-dlp>=2023.12.30
+curl_cffi>=0.5.10,<0.14
+requests>=2.28.0
+orjson>=3.9.0

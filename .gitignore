@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+downloads/
+*.log
+
+# Local secrets/config
+kick_api_config.json
+*.env
+
+# Large local binaries
+ffmpeg-master-latest-win64-gpl/
+ffmpeg/*.exe
