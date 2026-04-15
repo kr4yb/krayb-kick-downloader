@@ -1,17 +1,3 @@
-"""
-Modern Kick VOD Downloader
-
-A PyQt6-based application for downloading VODs and chat logs from Kick.com.
-Supports browser impersonation via curl_cffi and uses yt-dlp for video downloads.
-
-Requirements:
-    - PyQt6
-    - curl_cffi (for API access)
-    - yt-dlp (for video downloads)
-    - orjson (optional, for faster JSON serialization)
-"""
-# type: ignore
-
 import sys
 import os
 import json
