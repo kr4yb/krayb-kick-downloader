@@ -40,15 +40,6 @@ python main.py
 
 Default output folder: `downloads/`
 
-## Public Repo Safety Checklist
-
-Before making this repository public:
-
-- Rotate any API keys or client secrets that were ever committed.
-- Make sure `kick_api_config.json` is not committed with real credentials.
-- Keep secrets in local-only files or environment variables.
-- Confirm `.gitignore` excludes local artifacts and secrets.
-
 ## Dependencies
 
 - `PyQt6` - desktop GUI
