@@ -1,6 +1,7 @@
 # Krayb's Kick Downloader
 
-BULK DOWNLOADS FROM A CHANNEL
+BULK DOWNLOADS FROM A CHANNEL.
+
 Desktop app for downloading Kick VODs and chat logs with a clean PyQt interface.
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
